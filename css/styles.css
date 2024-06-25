@@ -133,7 +133,7 @@ h1 {
 
 @keyframes vanishAnimation {
   0% {opacity: 100%;}
-  100% {opacity: 0%;}
+  100% {opacity: 0%; display: none;}
 }
 
 @keyframes spawnAnimation {
